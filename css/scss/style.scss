@@ -1,0 +1,17 @@
+//gerais
+@import "_reset.scss";
+@import "_grid.scss";
+@import "variaveis-e-mixins";
+@import "_geral";
+
+//"paginas"
+@import "intro";
+@import "menu";
+@import "contato";
+@import "footer";
+
+
+div {
+  font-family: "Aref Ruqaa", serif;
+  font-family: "PT Mono", monospace;
+}
